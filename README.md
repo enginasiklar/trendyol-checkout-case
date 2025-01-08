@@ -196,4 +196,3 @@ Spring Framework Best Practices:
 General Observations:
 1.	Data Transfer Object (DTO) Design: These classes follow the Data Transfer Object pattern, which is a good practice for encapsulating data transfer between processes or within layers of an application.
 2.	Lombok Annotations: The @Data annotation is a concise way to generate boilerplate code (getters, setters, hashCode, equals, toString), which keeps the classes clean and readable.
-![image](https://github.com/user-attachments/assets/2a3701d7-cddc-41a1-9863-7519d4838e57)
